@@ -1,12 +1,12 @@
 {
-    "name": "ryangjchandler/filament-progress-column",
+    "name": "croustibat/filament-progress-column",
     "description": "Add a progress bar column to your Filament tables.",
     "keywords": [
         "ryangjchandler",
         "laravel",
         "filament-progress-column"
     ],
-    "homepage": "https://github.com/ryangjchandler/filament-progress-column",
+    "homepage": "https://github.com/croustibat/filament-progress-column",
     "license": "MIT",
     "authors": [
         {
